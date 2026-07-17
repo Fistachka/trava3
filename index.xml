@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>trava3</repo>
-  <version>v1.0.5</version>
+  <version>v1.0.6</version>
   <next number="1" owner="Fistachka" repo="trava4"/>
   <readme>
     <ru>fa0dabb7e02659e3bd024f2b7a79306a57bcd602ab62e5a8f1502d18d931edfc</ru>
@@ -30,7 +30,7 @@
   <exercise number="2">
     <scale>minor</scale>
     <cadenceVariant>harmonic</cadenceVariant>
-    <bpm>120</bpm>
+    <bpm>128</bpm>
     <lowestNote>84</lowestNote>
     <tonalities>10</tonalities>
     <video name="21.mp4" size="1549576" type="video/mp4" volume="0.5">093d46467f78816c330324f22fb0973e69441fce44b7e17b63bb9f5a0e97eebf</video>
@@ -48,7 +48,7 @@
   <exercise number="3">
     <scale>minor</scale>
     <cadenceVariant>harmonic</cadenceVariant>
-    <bpm>120</bpm>
+    <bpm>128</bpm>
     <lowestNote>84</lowestNote>
     <tonalities>10</tonalities>
     <video name="22.mp4" size="2104074" type="video/mp4" volume="0.5">c051ed55d5f5402e7cda62ad7ae7dd98e90e9c1467535491290d79d15bd8b71d</video>
@@ -68,7 +68,7 @@
   <exercise number="4">
     <scale>minor</scale>
     <cadenceVariant>harmonic</cadenceVariant>
-    <bpm>120</bpm>
+    <bpm>128</bpm>
     <lowestNote>84</lowestNote>
     <tonalities>10</tonalities>
     <video name="23.mp4" size="1503537" type="video/mp4" volume="0.5">058fd73b12444fb51466d50ca9508ef1e1d06a98bb5a411a5e92c001887d0c87</video>
@@ -86,7 +86,7 @@
   <exercise number="5">
     <scale>minor</scale>
     <cadenceVariant>harmonic</cadenceVariant>
-    <bpm>120</bpm>
+    <bpm>128</bpm>
     <lowestNote>84</lowestNote>
     <tonalities>10</tonalities>
     <video name="24.mp4" size="1160792" type="video/mp4" volume="0.5">10f5e64698558d2f2ecbdd43d7d3ad57a8cb302a1809bec013ed76f4cc46bd80</video>
@@ -104,7 +104,7 @@
   <exercise number="6">
     <scale>minor</scale>
     <cadenceVariant>harmonic</cadenceVariant>
-    <bpm>120</bpm>
+    <bpm>128</bpm>
     <lowestNote>84</lowestNote>
     <tonalities>10</tonalities>
     <video name="25.mp4" size="2062501" type="video/mp4" volume="0.5">ad0234d18d20c7fefca035ecc07e29d4a475c14e67361ce579143bdb1178f68a</video>
@@ -124,7 +124,7 @@
   <exercise number="7">
     <scale>minor</scale>
     <cadenceVariant>harmonic</cadenceVariant>
-    <bpm>120</bpm>
+    <bpm>128</bpm>
     <lowestNote>86</lowestNote>
     <tonalities>10</tonalities>
     <video name="26.mp4" size="1386101" type="video/mp4" volume="0.5">ec8522bef471b94de0b0e625b1a0c1945b689fb4e4ba2f8c4fdaea7db495bbcb</video>
@@ -142,7 +142,7 @@
   <exercise number="8">
     <scale>minor</scale>
     <cadenceVariant>harmonic</cadenceVariant>
-    <bpm>120</bpm>
+    <bpm>128</bpm>
     <lowestNote>86</lowestNote>
     <tonalities>10</tonalities>
     <video name="27.mp4" size="1199520" type="video/mp4" volume="0.5">e39b6c13033ebe5c73e5c517fac62edaedf97df2a13b31704bb3e795870578db</video>
@@ -160,7 +160,7 @@
   <exercise number="9">
     <scale>minor</scale>
     <cadenceVariant>harmonic</cadenceVariant>
-    <bpm>120</bpm>
+    <bpm>128</bpm>
     <lowestNote>86</lowestNote>
     <tonalities>10</tonalities>
     <video name="28.mp4" size="2088473" type="video/mp4" volume="0.5">8f3d1bc8f6c049913bf776a032b952e425da579a5cdaf1388639d39bb86b9298</video>
@@ -180,7 +180,7 @@
   <exercise number="10">
     <scale>minor</scale>
     <cadenceVariant>harmonic</cadenceVariant>
-    <bpm>120</bpm>
+    <bpm>128</bpm>
     <lowestNote>86</lowestNote>
     <tonalities>10</tonalities>
     <video name="29.mp4" size="1302143" type="video/mp4" volume="0.5">9578ea002b897c39c3ac8f18b11a1ea13b8abcf76301b934293f587ddf65b6d8</video>
@@ -198,7 +198,7 @@
   <exercise number="11">
     <scale>minor</scale>
     <cadenceVariant>harmonic</cadenceVariant>
-    <bpm>120</bpm>
+    <bpm>128</bpm>
     <lowestNote>86</lowestNote>
     <tonalities>10</tonalities>
     <video name="30.mp4" size="1280742" type="video/mp4" volume="0.5">58d533408d99fbdd01e44984fa7cca4e0434cd279a6fd94c60e49e5eb08b755a</video>
@@ -216,7 +216,7 @@
   <exercise number="12">
     <scale>minor</scale>
     <cadenceVariant>harmonic</cadenceVariant>
-    <bpm>120</bpm>
+    <bpm>128</bpm>
     <lowestNote>85</lowestNote>
     <tonalities>10</tonalities>
     <video name="31.mp4" size="2110392" type="video/mp4" volume="0.5">f399f5c94a467b2edf902561ab7a554a7dcd1e3894a19e1c547f9b3645a767a8</video>
