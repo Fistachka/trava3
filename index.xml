@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>trava3</repo>
-  <version>v1.0.16</version>
+  <version>v1.0.17</version>
   <next number="1" owner="Fistachka" repo="trava4"/>
   <readme>
     <ru>fa0dabb7e02659e3bd024f2b7a79306a57bcd602ab62e5a8f1502d18d931edfc</ru>
@@ -185,14 +185,14 @@
     <tonalities>10</tonalities>
     <video name="29.mp4" size="1302143" type="video/mp4" volume="0.5">9578ea002b897c39c3ac8f18b11a1ea13b8abcf76301b934293f587ddf65b6d8</video>
     <notes>
-      <note number="1" values="1" ticks="119" durationTicks="41" ppq="96" velocity="0.661"/>
-      <note number="2" values="4" ticks="169" durationTicks="51" ppq="96" velocity="0.78"/>
-      <note number="3" values="3" ticks="210" durationTicks="22" ppq="96" velocity="0.677"/>
-      <note number="4" values="3" ticks="244" durationTicks="41" ppq="96" velocity="0.803"/>
-      <note number="5" values="2" ticks="287" durationTicks="21" ppq="96" velocity="0.638"/>
-      <note number="6" values="2" ticks="324" durationTicks="42" ppq="96" velocity="0.787"/>
-      <note number="7" values="3" ticks="375" durationTicks="23" ppq="96" velocity="0.583"/>
-      <note number="8" values="2" ticks="408" durationTicks="96" ppq="96" velocity="0.654"/>
+      <note number="1" values="1" ticks="147" durationTicks="41" ppq="96" velocity="0.661"/>
+      <note number="2" values="4" ticks="197" durationTicks="51" ppq="96" velocity="0.78"/>
+      <note number="3" values="3" ticks="238" durationTicks="22" ppq="96" velocity="0.677"/>
+      <note number="4" values="3" ticks="272" durationTicks="41" ppq="96" velocity="0.803"/>
+      <note number="5" values="2" ticks="315" durationTicks="21" ppq="96" velocity="0.638"/>
+      <note number="6" values="2" ticks="352" durationTicks="42" ppq="96" velocity="0.787"/>
+      <note number="7" values="3" ticks="403" durationTicks="23" ppq="96" velocity="0.583"/>
+      <note number="8" values="2" ticks="436" durationTicks="96" ppq="96" velocity="0.654"/>
     </notes>
   </exercise>
   <exercise number="11">
