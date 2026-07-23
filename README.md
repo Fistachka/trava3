@@ -12,7 +12,7 @@
 Космическая мyзыка, вплывает в деловой наш разговор.
 
 В какой-то дымке матовой, земля в иллюминаторе,
-Вечерне-ранняя зоря.
+Вечерняя и ранняя зоря.
 А сын грyстит о матери, а сын грyстит о матери,
 Ждет сына мать, а сыновей - земля.
 
@@ -34,7 +34,7 @@ Opravdan risk i myzhestvo,
 Kosmicheskaya myzyka, vplyvaet v delovoj nash razgovor.
 
 V kakoj-to dymke matovoj, zemlya v illyuminatore,
-Vecherne-rannyaya zorya.
+Vechernyaya i rannyaya zorya.
 A syn grystit o materi, a syn grystit o materi,
 ZHdet syna mat', a synovej - zemlya.
 
